@@ -5,4 +5,4 @@ class ThisIsNotAClass:
         print("Hello world")
 
     def my_fancy_method(self):
-        raise Exception("My hovercraft is full of eels")
+        raise Exception("This parrot is no more")
